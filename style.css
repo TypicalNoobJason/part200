@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(29, 218, 145);
+
+}
+
+h1{
+ color:white;
+ background-color: steelblue;
+}
+
+#show_sketch{
+    float: right;
+}
+
+p{
+    font-size: 20px;
+    color: white;
+}
+
+#Timer{
+    font-size: 20px;
+    color: white;
+    float: right;
+    margin-right: 35px;
+}
+
+#Score{
+    font-size: 20px;
+    color: white;
+    float: left;
+    margin-left: 10px;
+}
